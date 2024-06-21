@@ -1,6 +1,6 @@
 ## 
 
-![](/media/intro.gif?raw=true)
+![](/media/intro.png?raw=true)
 
 ## Intro
 
